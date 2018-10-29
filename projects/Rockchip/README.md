@@ -19,6 +19,7 @@ This project is for Rockchip SoC devices
 * [Hardkernel ODROID-N1](devices/RK3399)
 * [PINE64 RockPro64](devices/RK3399)
 * [Rockchip Sapphire Board](devices/RK3399)
+* [Yundoo Y8 Board](devices/RK3399)
 
 **My single-board computer is not listed, will it be added in the future?**<br />
 If your single-board computer uses a current generation SoC listed on http://opensource.rock-chips.com/wiki_Main_Page the odds are in your favor.
