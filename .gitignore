@@ -32,6 +32,9 @@ mkpkg-temp
 .DS_Store
 .directory
 
-# Visual Studio files
+# Files from Visual Studio
 /.vs/
 /.Yundoo-Y8/
+
+#ignore .gitignore as well
+.gitignore
