@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch\\arm64",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch\\arm64\\boot",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch\\arm64\\boot\\dts",
+    "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch\\arm64\\boot\\dts\\rockchip"
+  ],
+  "SelectedNode": "\\build.LibreELEC-RK3399.arm-9.0-devel\\linux-aa8bacf821e5c8ae6dd8cae8d64011c741659945\\arch\\arm64\\boot\\dts\\rockchip\\rk3399-yundoo-y8.dts",
+  "PreviewInSolutionExplorer": false
+}

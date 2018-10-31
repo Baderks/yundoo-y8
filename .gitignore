@@ -31,3 +31,7 @@ mkpkg-temp
 # crap
 .DS_Store
 .directory
+
+# Visual Studio files
+/.vs/
+/.Yundoo-Y8/
