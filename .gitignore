@@ -38,3 +38,7 @@ mkpkg-temp
 
 #ignore .gitignore as well
 .gitignore
+
+
+!/build.*/linux-*/arch/arm64/boot/dts/rockchip/rk3399-yundoo-y8.dts
+!/build.*/linux-*/arch/arm64/boot/dts/rockchip/Makefile
